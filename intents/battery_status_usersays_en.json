@@ -1,0 +1,59 @@
+[
+  {
+    "id": "966ff08d-be44-4ca3-855e-02ea3816d71f",
+    "data": [
+      {
+        "text": "status battery ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.number",
+        "alias": "id_battery",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f35b0a1c-c365-407c-8709-a234a2071c83",
+    "data": [
+      {
+        "text": "get status battery ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.number",
+        "alias": "id_battery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6daeec6-de15-4e4b-a9fd-896db6389a90",
+    "data": [
+      {
+        "text": "give me the status of battery number ",
+        "userDefined": false
+      },
+      {
+        "text": "12",
+        "meta": "@sys.number",
+        "alias": "id_battery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
